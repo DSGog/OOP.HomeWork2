@@ -1,5 +1,3 @@
-package ru.gb.oseminar;
-
 public interface QueueBehaviour {
     void takeInQueue(Actor actor);
     void takeOrders();

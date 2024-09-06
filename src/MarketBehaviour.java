@@ -1,5 +1,3 @@
-package ru.gb.oseminar;
-
 import java.util.List;
 
 public interface MarketBehaviour {
